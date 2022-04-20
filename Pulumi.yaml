@@ -1,0 +1,3 @@
+name: gcp-pulumi-cloud-run
+runtime: nodejs
+description: Deploy nodejs app to GCP Cloud run

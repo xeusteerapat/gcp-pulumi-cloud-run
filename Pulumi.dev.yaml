@@ -1,0 +1,3 @@
+config:
+  gcp:project: nodejs-api-server-pulumi
+  gcp:region: asia-southeast1
